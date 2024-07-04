@@ -11,6 +11,8 @@ To get things work, you need apktool version 2.9.3+ and some packages from pip. 
 + pure-python-adb
 + beautifulsoup4
 + requests
+
+  
 which can be found in file ```adb-requirements.txt```.
 
 ### apktool-extractor.py
